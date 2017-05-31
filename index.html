@@ -1,25 +1,26 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>Motor News</title>
-	<meta charset="utf-8" /> 
-	<link rel="shortcut icon" href="img/favicon.ico">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Motor News</title>
+  <meta charset="utf-8" /> 
+  <link rel="shortcut icon" href="img/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel=stylesheet href="css/estilos.css" type="text/css"/>
 
   <meta property="og:site_name" content="Motor News">
-  <meta property="og:url" content="https://rawgit.com/">
+  <meta property="og:url" content="https://rawgit.com/CristianMR06/noticias/master/index.html">
   <meta property="og:title" content="Motor News">
   <meta property="og:description" content="Toda la información acerca de coches deportivos">
+  <meta property="og:image" content="https://rawgit.com/CristianMR06/noticias/master/img/logo.png">
 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>	
   <script src="js/js.js"></script>
 </head>
-<body>
 
+<body>
 
   <header>
     <nav class="navbar navbar-inverse" data-spy="affix">
@@ -56,8 +57,6 @@
   <section class="jumbotron">
     <div class="container">
       <img src="img/logo.png" width="40%">
-      <!--<h1 class="titulo-blog">BLOG</h1>
-      <p>blog diseño</p>-->
     </div>
   </section>
 
@@ -153,14 +152,12 @@
       </aside>
 
     </div>
-
-      
-
   </section>
+  
   <center>
+    <button onclick="cargar();" id="cargar_mas" class="btn btn-primary">+ noticias</button>
+  </center>
 
-  <button onclick="cargar();" id="cargar_mas" class="btn btn-primary">+ noticias</button>
-</center>
   <footer class="footer"> 
     <div class="container"> 
       <ul class="footer-links"> 
@@ -173,12 +170,6 @@
       </p> 
     </div> 
   </footer>
-
-
-
-
-
-
-
+  
 </body>
 </html>
