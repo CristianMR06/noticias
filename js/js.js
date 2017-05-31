@@ -3,7 +3,7 @@ var cargado = 1;
 $(window).scroll(function () {
     if ($(window).scrollTop() + $(window).height() + 10 >= $(document).height()) {
         if (cargado < 4) {
-            $.getJSON( "data/"+ cargado +".json", function( jsonObject ) {
+            $.getJSON( "https://rawgit.com/CristianMR06/noticias/master/data/"+ cargado +".json", function( jsonObject ) {
                 ponerComunidades( jsonObject );
             }); cargado++;
         } else {
@@ -15,7 +15,7 @@ $(window).scroll(function () {
 
 function cargar() {
     if (cargado < 4) {
-        $.getJSON( "data/"+ cargado +".json", function( jsonObject ) {
+        $.getJSON( "https://rawgit.com/CristianMR06/noticias/master/data/"+ cargado +".json", function( jsonObject ) {
             ponerComunidades(jsonObject);
         }); cargado++;
     } else {
