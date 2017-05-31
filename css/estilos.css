@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css?family=Skranji|Chicle|Roboto');
+
+body{
+	font-family: 'Roboto', cursive;
+	margin: 0px;
+	height: 100%;
+    width: 100%;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; 
+
+    background: rgba(209,209,209,1);
+    background: -moz-linear-gradient(left, rgba(209,209,209,1) 0%, rgba(255,255,255,1) 50%, rgba(209,209,209,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(209,209,209,1)), color-stop(50%, rgba(255,255,255,1)), color-stop(100%, rgba(209,209,209,1)));
+    background: -webkit-linear-gradient(left, rgba(209,209,209,1) 0%, rgba(255,255,255,1) 50%, rgba(209,209,209,1) 100%);
+    background: -o-linear-gradient(left, rgba(209,209,209,1) 0%, rgba(255,255,255,1) 50%, rgba(209,209,209,1) 100%);
+    background: -ms-linear-gradient(left, rgba(209,209,209,1) 0%, rgba(255,255,255,1) 50%, rgba(209,209,209,1) 100%);
+    background: linear-gradient(to right, rgba(209,209,209,1) 0%, rgba(255,255,255,1) 50%, rgba(209,209,209,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d1d1d1', endColorstr='#d1d1d1', GradientType=1 );
+}
+
+.tam_contenido {
+    float: left;
+    width: calc(98% - 300px);
+}
+
+.tam_pub {
+	width: 300px;
+    float: right;
+}
+
+.tam_twitter {
+    width: 300px;
+    float: right;
+    margin-top: 20px;
+}
+
+
+
+.row {
+    width: 100%;
+}
+
+.pub_movil{
+    display: none;
+}
+
+/*****  MENÚ DE NAVEGACIÓN  *****/
+
+.navbar{
+    margin-bottom: 0;
+    border-radius: 0px;
+    opacity: 0.9;
+    color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.affix {
+    top: 0px;
+    width: 100%;
+    z-index: 1000 !important;
+}
+
+
+/*****  JUMBOTRON  *****/
+
+.jumbotron{
+    background: url('http://www.misfondoshd.com/wallpapers/carro-deportivo-a-velocidad-3462.jpg') 50% 50% no-repeat ;
+    background-size: cover;
+    color: white;
+    padding: 50px 0;
+}
+
+.jumbotron .titulo-blog {
+    font-size: 80px;
+}
+
+.jumbotron .container{
+    margin-top: 20px;
+}
+
+
+/***** POST *****/
+
+.main {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.post{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #999;
+}
+
+.post .post-title a{
+    color: #333;
+}
+
+.post .thumb{
+    margin-right: 10px;
+    width: 40%;
+}
+
+.post .thumb img{
+    width: 100%;
+}
+
+.vermas{
+    text-align: center;
+}
+
+
+.glyphicon-calendar{
+    color: #2E64FE;
+
+}
+.footer {
+    padding:50px 0 50px;
+    margin-top:100px;
+    color:#99979c;
+    text-align:left;
+    background-color:#2a2730
+}
+
+.footer-links{
+   padding-left:0;
+   margin-bottom:20px
+}
+
+.footer-links li+li{
+    margin-left:15px
+}
+
+.footer-links li{
+    display:inline-block
+}
+
+.footer div.container{
+    text-align: center;
+}
+
+.footer div.container img{
+    width: 60%;
+}
+
+/*---- RESPONSIVE -----*/
+
+@media screen and (max-width: 768px){
+    .post .thumb {
+        width: 100%;
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+
+    .tam_contenido {
+        float: left;
+        width: 100%;
+    }
+
+    .row{
+        margin-right: 0px; 
+        margin-left: 0px;
+    }
+
+    .pub_movil{
+        display: inline;
+        text-align: center;
+        margin: 20px;
+        height: 90px;
+    }
+
+    .pub_movil img{
+        width: 90%;
+    }
+}
+

@@ -1,0 +1,14 @@
+[
+    {
+        "titulo_noticia": "Ferrari 488 GTB, el nuevo deportivo de Maranello",
+        "fecha_noticia": "06 Abril 2017",
+        "img_noticia": "img/noticia_6.jpg",
+        "descripcion_noticia": "El Ferrari 488 GTB, con un V8 turboalimentado de 670 caballos, hará su presentación en sociedad en el Salón de Ginebra y sustituye al Ferrari 458 Italia."
+    },
+    {
+        "titulo_noticia": "Audi TT, evolución exterior, revolución interior",
+        "fecha_noticia": "05 Abril 2017",
+        "img_noticia": "img/noticia_7.jpg",
+        "descripcion_noticia": "El Audi TT llegará a España a finales de octubre y partirá de 40.870 euros. La tercera generación del este modelo muestra una estética continuista en el exterior, mientras que en la verdadera revolución se da en el interior."
+    }
+]
