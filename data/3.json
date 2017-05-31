@@ -1,14 +1,1 @@
-[
-    {
-        "titulo_noticia": "Porsche 911 GT2 Evo de 1996 vendido por 1,3 millones",
-        "fecha_noticia": "24 Marzo 2017",
-        "img_noticia": "img/noticia_8.jpg",
-        "descripcion_noticia": "Tan solo se crearon 11 ejemplares de este modelo hace ya dos décadas y cuenta con uno de los motores bóxer refrigerados por aire más potentes de la historia de Porsche."
-    },
-    {
-        "titulo_noticia": "La bicicleta eléctrica eF01 de Peugeot llega a España",
-        "fecha_noticia": "20 Marzo 2017",
-        "img_noticia": "img/noticia_9.jpg",
-        "descripcion_noticia": "Diseñada por Peugeot Design Lab, la eF01 permite desplazarse a 20 kms/h durante 30 kilómetros, y está ya disponible en España."
-    }
-]
+[{"titulo_noticia":"Porsche 911 GT2 Evo de 1996 vendido por 1,3 millones","fecha_noticia":"24 Marzo 2017","img_noticia":"img/noticia_8.jpg","descripcion_noticia":"Tan solo se crearon 11 ejemplares de este modelo hace ya dos décadas y cuenta con uno de los motores bóxer refrigerados por aire más potentes de la historia de Porsche."},{"titulo_noticia":"La bicicleta eléctrica eF01 de Peugeot llega a España","fecha_noticia":"20 Marzo 2017","img_noticia":"img/noticia_9.jpg","descripcion_noticia":"Diseñada por Peugeot Design Lab, la eF01 permite desplazarse a 20 kms/h durante 30 kilómetros, y está ya disponible en España."}]

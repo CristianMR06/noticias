@@ -1,34 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-
-<channel>
-    <title>Motor News</title>
-    <link>https://rawgit.com/CristianMR06/items/master/index.html</link>
-    <description>Toda la información acerca de coches deportivos</description>
-
-    <item>
-        <title>Prueba estática: BMW Serie 8</title>
-        <description>En 1989, BMW presentó el primer Serie 8. Ahora, casi 30 años más tarde, estamos ante el nuevo BMW Serie 8. La marca promete que el modelo definitivo estará muy cerca estéticamente de este prototipo.
-        </description>
-        <pubDate>02 de Junio 2017</pubDate>
-        <link>https://rawgit.com/CristianMR06/noticias/master/news1.html</link>
-    </item>
-
-    <item>
-        <title>Adiós, BMW Z5</title>
-        <description>El nuevo roadster de BMW no se llamará Z5, tal y como ha confirmado un ejecutivo de la marca. El BMW Z5 fue cazado con camuflaje mientras se sometía a una jornada de pruebas por una carretera nevada.
-        </description>
-        <pubDate>26 de Mayo 2017</pubDate>
-        <link>https://rawgit.com/CristianMR06/noticias/master/news2.html</link>
-    </item>
-
-    <item>
-        <title>El robot que te aparca el coche</title>
-        <description>Stan, es el robot que te aparca el coche en el aeropuerto para que tú no pierdas tu vuelo. Stan recoge los coches de los usuarios, los eleva unos centímetros del suelo y los traslada al hueco seleccionado.
-        </description>
-        <pubDate>14 de Mayo 2017</pubDate>
-        <link>https://rawgit.com/CristianMR06/noticias/master/news1.html</link>
-    </item>
-
-</channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0"><channel><title>Motor News</title><link>https://rawgit.com/CristianMR06/items/master/index.html</link><description>Toda la información acerca de coches deportivos</description><item><title>Prueba estática: BMW Serie 8</title><description>En 1989, BMW presentó el primer Serie 8. Ahora, casi 30 años más tarde, estamos ante el nuevo BMW Serie 8. La marca promete que el modelo definitivo estará muy cerca estéticamente de este prototipo.
+        </description><pubDate>02 de Junio 2017</pubDate><link>https://rawgit.com/CristianMR06/noticias/master/news1.html</link></item><item><title>Adiós, BMW Z5</title><description>El nuevo roadster de BMW no se llamará Z5, tal y como ha confirmado un ejecutivo de la marca. El BMW Z5 fue cazado con camuflaje mientras se sometía a una jornada de pruebas por una carretera nevada.
+        </description><pubDate>26 de Mayo 2017</pubDate><link>https://rawgit.com/CristianMR06/noticias/master/news2.html</link></item><item><title>El robot que te aparca el coche</title><description>Stan, es el robot que te aparca el coche en el aeropuerto para que tú no pierdas tu vuelo. Stan recoge los coches de los usuarios, los eleva unos centímetros del suelo y los traslada al hueco seleccionado.
+        </description><pubDate>14 de Mayo 2017</pubDate><link>https://rawgit.com/CristianMR06/noticias/master/news1.html</link></item></channel></rss>

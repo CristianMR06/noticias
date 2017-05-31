@@ -1,14 +1,1 @@
-[
-    {
-        "titulo_noticia": "Lamborghini Diablo GTR, a la venta",
-        "fecha_noticia": "07 de Mayo 2017",
-        "img_noticia": "img/noticia_4.jpg",
-        "descripcion_noticia": "Este Lamborghini Diablo GTR ha sido puesto a la venta en un concesionario de Dinamarca. Solo se fabricaron 30 unidades; esta unidad es la 22, y ahora está a la venta en Formula Automobile, en Dinamarca."
-    },
-    {
-        "titulo_noticia": "Trump amenaza con prohibir la venta de coches alemanes",
-        "fecha_noticia": "08 Abril 2017",
-        "img_noticia": "img/noticia_5.jpg",
-        "descripcion_noticia": "Donald Trump amenaza con prohibir la venta de coches alemanes en Estados Unidos si los fabricantes no invierten sus beneficios en el país."
-    }
-]
+[{"titulo_noticia":"Lamborghini Diablo GTR, a la venta","fecha_noticia":"07 de Mayo 2017","img_noticia":"img/noticia_4.jpg","descripcion_noticia":"Este Lamborghini Diablo GTR ha sido puesto a la venta en un concesionario de Dinamarca. Solo se fabricaron 30 unidades; esta unidad es la 22, y ahora está a la venta en Formula Automobile, en Dinamarca."},{"titulo_noticia":"Trump amenaza con prohibir la venta de coches alemanes","fecha_noticia":"08 Abril 2017","img_noticia":"img/noticia_5.jpg","descripcion_noticia":"Donald Trump amenaza con prohibir la venta de coches alemanes en Estados Unidos si los fabricantes no invierten sus beneficios en el país."}]
