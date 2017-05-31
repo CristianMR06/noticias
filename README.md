@@ -17,3 +17,18 @@ En el footer se han añadido los iconos de las redes sociales de la web de notic
 Se ha añadido un timeline de twitter, debajo de la publicidad en la versión escritorio.
 
 A medida que nos fuimos involucrando a bootstrap, se han adquirido muchos conocimientos. Referente al código HTML he optado por incluir las etiquetas SECTION, ARTICLE, con el fin de utilizar divs innecesarios.
+
+
+# Maquetación
+
+Versión Escritorio
+
+![GitHub Logo](img/ESCRITORIO.png)
+
+Vista de noticia
+
+![GitHub Logo](img/NOTICIA.png)
+
+Versión Móvil
+
+![GitHub Logo](img/MOVIL.png)
