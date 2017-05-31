@@ -1,10 +1,10 @@
-# noticias
+# Noticias
 
 El siguiente proyecto es una web de noticias relacionadas con el mundo de los coches deportivos.
 
 Previsualización: https://rawgit.com/CristianMR06/noticias/master/index.html
 
-# Requisitos minimos
+# Requisitos mínimos
 
 Las instrucciones del cliente a seguir, son las siguientes:
 
